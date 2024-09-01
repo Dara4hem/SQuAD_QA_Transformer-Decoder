@@ -77,5 +77,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Hugging Face Transformers](https://github.com/huggingface/transformers) for providing the pre-trained T5 model.
 - [SQuAD Dataset](https://rajpurkar.github.io/SQuAD-explorer/) for the training data.
 ```
-
-Feel free to customize the sections as needed based on your project specifics!
